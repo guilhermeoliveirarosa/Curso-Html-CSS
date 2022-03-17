@@ -1,0 +1,48 @@
+ody{
+	background: #C0C0C0 USADO PARA COLORAÇAO DO FUNDO DA PAGINA 
+
+padding:30px  USADO PARA E3NQUADRAR MELHOR O ESPAÇAMENTO DO TEXTO  DO REDATOR 
+}
+
+
+#banner {	
+	width: 100%; MEDIDA  DO TAMANHO DA IMAGEM 
+	}
+
+h1 { text-align: center
+} USADO PARA ALINHAR O TITULO 
+
+p{
+	text-align:center;
+
+}	USADO PARA ALINHAR O TEXTO AO CENTRO 
+
+#missao{ 
+	font size: 20Px
+} USADO PARA ALINHAR O TEXTO SUBLINHADO 
+
+em strong {
+
+	color: #DC143C; USADO PARA COLOCAR A COLORAÇAO NO TEXTO SUBLINHADO DE VERMELHO 
+}
+.itens {
+	font-style :italic 
+	USADO PARA COLOCAR A LISTA DE BENEFICIOS EM ITALICO  
+
+	beneficios {
+	background: #FFFFFFFF, COLORAÇAO ADICIONADA NA DIV 2  FUNDO BRANCO
+}
+
+h2 {
+	text-align:center; ALINHAMENTO DO TITULO 2 AO CENTRO 
+}
+
+ul {
+	display: inline-block; SERVE PARA ALINHAR A IMAGEM 
+	vertical-align: top; SERVE PARA ALINHAR A IMAGEM A VERTICAL
+	width: 20% TAMANHO DA IMAGEM 
+	margin-right:15% ;MARGEM USADA NA IMAGEM 
+}
+.imagembeneficios{
+	width: 50%; REDUZIO A IMAGEM A 50 % 
+}
